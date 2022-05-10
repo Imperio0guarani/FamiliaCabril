@@ -1,4 +1,6 @@
-a = 2
-b = 5
+import Funciones
+import random
 
-print (a + b)
+
+Funciones.quiz()
+
